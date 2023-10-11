@@ -2,8 +2,8 @@ public class Common_elements
 {
     public static void main(String[] args)
     {
-        String array []= {"alpha","beta", "omega", "sigma"};
-        String names [] = {"delta", "tango", "sierra", "omega"};
+        String array []= {"alpha","beta", "omega", "sigma"};//pre assigned first array...
+        String names [] = {"delta", "tango", "sierra", "omega"};//pre assigned second array...
 
         String common = " ";
 

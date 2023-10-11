@@ -4,8 +4,8 @@ public class Equality
 {
     public static void main(String[] args)
     {
-        int array1 [] = {10,15,20,25,30,35};
-        int array2 [] = {10,15,2,25,30,35};
+        int array1 [] = {10,15,20,25,30,35};//pre assigned first array....
+        int array2 [] = {10,15,2,25,30,35};// pre assigned second array......
 
             {
 
